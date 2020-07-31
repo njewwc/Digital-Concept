@@ -38,3 +38,11 @@ The proper way to set up any html project is to first make sure you have the nec
      `</body>`
      
  `</html>`
+ 
+ 
+ ## Step 3: Opening the file
+ In this step we will be opening the file and displaying it on the browser.
+ 
+ To do this, using whatever text editor of your chosing you must go to save as and save the document with .html at the end, this insures that the computer/browser will open the file and recognize what you are trying to do.
+ 
+ To open the file, right click and press open with (browser of choice here) and your webpage will be displayed. This is only for your local computer as it is not hosted on a serer but it is a handy way to try things out
