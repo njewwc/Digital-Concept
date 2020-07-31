@@ -24,8 +24,11 @@ The proper way to set up any html project is to first make sure you have the nec
  In this step we will be assembling all the tags to see what it all looks like together
  
  `<html>`
+ 
      `<head>`
+     
           `<title> welcome to the page </title>`
+          
      `</head>`
  
      `<body>`
@@ -33,4 +36,5 @@ The proper way to set up any html project is to first make sure you have the nec
      `<h1> hello world</h1>`
   
      `</body>`
+     
  `</html>`
