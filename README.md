@@ -2,6 +2,9 @@
 
 by Nicholas Engelhard
 
+## summary 
+This tutorial is meant to be used by someone who is new to the idea of creating web pages and provides and easy way to create something of your own. It provides a laumching point to further concepts in the future and may spark some early interest as making your own website is cool.
+
 ## Step 1: the setup
 The proper way to set up any html project is to first make sure you have the necessary pieces to build upon
 
@@ -46,3 +49,6 @@ The proper way to set up any html project is to first make sure you have the nec
  To do this, using whatever text editor of your chosing you must go to save as and save the document with .html at the end, this insures that the computer/browser will open the file and recognize what you are trying to do.
  
  To open the file, right click and press open with (browser of choice here) and your webpage will be displayed. This is only for your local computer as it is not hosted on a serer but it is a handy way to try things out
+ 
+ 
+
