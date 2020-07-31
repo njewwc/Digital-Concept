@@ -13,7 +13,7 @@ The proper way to set up any html project is to first make sure you have the nec
 
 4. The *body* tag goes below the head tag and is used for the actual content on the page. Inside this tag you can do many things such as link to an image or even just writing your name on the webpage. Here is an example of creating some text within the body tag 
 
-  *<body>*
-  <h1> hello world</h1>
+      <body>
+      <h1> hello world</h1>
   
-  </body>
+      </body>
