@@ -19,3 +19,18 @@ The proper way to set up any html project is to first make sure you have the nec
      `<h1> hello world</h1>`
   
  `</body>`
+ 
+ ## Step 2: putting it all together
+ In this step we will be assembling all the tags to see what it all looks like together
+ 
+ `<html>`
+     `<head>`
+          `<title> welcome to the page </title>`
+     `</head>`
+ 
+     `<body>`
+
+     `<h1> hello world</h1>`
+  
+     `</body>`
+ `</html>`
